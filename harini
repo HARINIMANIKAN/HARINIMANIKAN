@@ -1,0 +1,6 @@
+print("how was your day")
+a=input()
+if(a=='good'):
+  print(":)")
+else:
+  print(":(")
